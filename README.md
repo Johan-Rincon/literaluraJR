@@ -1,6 +1,7 @@
 # literaluraJR
 
 💡 SOBRE EL CODIGO 💡
+
 Desarrollo basado en la formacion de Alura para el programa Oracle ONE.
 
 Se realiza el consumo de la API Gutendex, donde se obtiene una serie de datos sobre libros, se realiza manejo de json, mapeo de entidades, JPA, creacion base de datosy registro de informacion la DB.
