@@ -10,6 +10,6 @@ Algunas de las funciones son consultar libros y guardarlos en la DB, traer libro
 
 
 🌟 IDES/ INSTALACIÓN O REQUERIMIENTOS 🌟
- - MAVEN
- - LIBRERIAS SPRING - JPA - POSTGRESDB
- - INTELIJ IDEA
+ - Maven
+ - Librerias Spring Boot - JPA - PostgresDB
+ - IntelliJ Idea
